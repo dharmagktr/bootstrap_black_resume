@@ -158,6 +158,9 @@ body {
 .cur-sor{
     cursor: no-drop!important;
 }
+.marginminus{
+    margin-top: -150px;
+}
 
 
 
